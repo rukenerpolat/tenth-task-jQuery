@@ -12,6 +12,8 @@
 
 This project is a simple HTML + CSS + jQuery web page that demonstrates how to load and display posts from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) fake REST API.
 
+<img width="1916" height="1016" alt="10-hw" src="https://github.com/user-attachments/assets/2c7f778f-b692-4aa6-9a52-9be3bd2cabcc" />
+
 ## Features
 
 ✅ Fetches a total of 100 posts from the JSONPlaceholder API in chunks  
