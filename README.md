@@ -4,7 +4,7 @@
 
 <div align="center">
 
-🌐 [View Live Page]()  
+🌐 [View Live Page](https://tenth-task-jquery.netlify.app/)  
 
 </div>
 
